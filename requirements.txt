@@ -1,0 +1,7 @@
+transformers
+pillow
+nudenet
+opencv-python
+numpy
+pandas
+tqdm
